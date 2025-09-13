@@ -1,0 +1,4 @@
+{
+    "ros.distro": "jazzy",
+    "cmake.sourceDirectory": "/home/mikeymusso/ROSProjects/CameraMigration/camera"
+}
